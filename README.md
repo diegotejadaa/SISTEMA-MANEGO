@@ -16,10 +16,10 @@ Esto lo redirigirá automáticamente a phpMyAdmin.
 Asigne el nombre: ***manego***
 y confirme la creación.
 
--Con la base de datos creada, seleccione la pestaña “Importar”.
+- Con la base de datos creada, seleccione la pestaña “Importar”.
 
 Haga clic en “Seleccionar archivo” y cargue el archivo: ***manego_schema.sql***
 
--Finalmente, presione “Continuar” para ejecutar la importación.
+- Finalmente, presione “Continuar” para ejecutar la importación.
 
 Una vez completado el proceso, la base de datos quedará lista para funcionar con el proyecto MANEGO.
