@@ -13,12 +13,12 @@ Para configurar la base de datos del proyecto, siga los siguientes pasos:
 Esto lo redirigirá automáticamente a phpMyAdmin.
 
 - Una vez dentro de phpMyAdmin, haga clic en “Nueva” para crear una base de datos.
-Asigne el nombre: manego
+Asigne el nombre: ***manego***
 y confirme la creación.
 
 -Con la base de datos creada, seleccione la pestaña “Importar”.
 
-Haga clic en “Seleccionar archivo” y cargue el archivo: manego_schema.sql
+Haga clic en “Seleccionar archivo” y cargue el archivo: ***manego_schema.sql***
 
 -Finalmente, presione “Continuar” para ejecutar la importación.
 
