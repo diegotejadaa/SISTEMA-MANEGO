@@ -18,7 +18,7 @@ y confirme la creación.
 
 - Con la base de datos creada, seleccione la pestaña “Importar”.
 
-Haga clic en “Seleccionar archivo” y cargue el archivo: ***manego_schema.sql***
+- Haga clic en “Seleccionar archivo” y cargue el archivo: ***manego_schema.sql***
 
 - Finalmente, presione “Continuar” para ejecutar la importación.
 
